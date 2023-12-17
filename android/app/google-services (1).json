@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913103323990",
+    "project_id": "study-planner-f0132",
+    "storage_bucket": "study-planner-f0132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913103323990:android:9e1d9bf4f2c246a319ccf7",
+        "android_client_info": {
+          "package_name": "com.example.study_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOdHMHYGXOCWziqYdgDguXz7s7BSpJpls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
